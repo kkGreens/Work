@@ -6,7 +6,7 @@ public class Second {
 }
 	
 	public void m2() {
-		System.out.println("Java");
+		System.out.println("Cucumber BDD");
 	}
 
 public static void main(String[] args) {
