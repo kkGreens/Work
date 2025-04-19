@@ -2,7 +2,7 @@ package org.com;
 
 public class Second {
 	public void m1() {
-	System.out.println("Java");
+	System.out.println("Selenium");
 }
 	
 	public void m2() {
